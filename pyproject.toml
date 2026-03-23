@@ -45,7 +45,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://burning-cost.github.io"
-Repository = "https://github.com/burning-cost/burning-cost"
+Repository = "https://github.com/burning-cost/burning-cost-meta"
 Documentation = "https://burning-cost.github.io"
 
 [tool.hatch.build.targets.wheel]
